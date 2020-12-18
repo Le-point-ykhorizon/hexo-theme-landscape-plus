@@ -1,8 +1,15 @@
-# Landscape
+# Landscape-plus
 
-A brand new default theme for [Hexo].
+A customized hexo landscape theme
 
-- [Preview](http://hexo.io/hexo-theme-landscape/)
+- [Original landscape theme](http://hexo.io/hexo-theme-landscape/)
+
+## Todo
+[] Apply RWD with rem font-size and other fonts
+[] Remove widget when reading post
+[] Modify widget
+[] Add category
+[] Add multi-language example
 
 ## Installation
 
